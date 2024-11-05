@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707648544 source:d:\procedural_programming\lab\f7\a6f7\a6f7.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+

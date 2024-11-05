@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702851812 source:d:\procedural_programming\c_book\problems\a13_1\a13_1.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

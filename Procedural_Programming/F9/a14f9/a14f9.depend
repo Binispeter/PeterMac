@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1705394784 source:d:\procedural_programming\lab\f9\a14f9\a14f9.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+
